@@ -4,4 +4,4 @@
 </br>
 <a href="https://venomswitch.github.io/sketchbook/fractalTree/">Fractal tree</a>
 </br>
-<a href="https://venomswitch.github.io/sketchbook/parametricP5/">Fractal tree</a>
+<a href="https://venomswitch.github.io/sketchbook/parametricP5/">Parametric equations</a>
