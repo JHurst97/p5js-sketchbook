@@ -14,7 +14,7 @@ var c = 0;
 function draw() {
   translate(width/2, height/2);
   fill(20,20);
-  rect(-10,-10,width,height);
+  rect(-10,-10,width+50,height+50);
 
   if (siz<1) {
     direction = -direction;
