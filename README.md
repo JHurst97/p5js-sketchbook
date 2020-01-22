@@ -1,3 +1,3 @@
 # sketchbook
 
-<a href="https://venomswitch.github.io/angleSketch/index.html">angleSketch</a>
+<a href="https://venomswitch.github.io/sketchbook/angleSketch/">angleSketch</a>
