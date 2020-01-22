@@ -26,6 +26,6 @@ function draw() {
   rotate(theta);
   noFill();
   rect(0, 0, siz, siz);
-  siz-=direction;
-  theta+=0.1;
+  siz-=direction/2;
+  theta+=0.1/2;
 }
