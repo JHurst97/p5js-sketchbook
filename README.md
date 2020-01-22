@@ -1,5 +1,5 @@
 # sketchbook
-<h2> By Joel Hurst.</h2>
+<h4> By Joel Hurst.</h4>
 <p>All of my sketches are written in Processing then <strong>pain</strong>stakingly(2d arrays) adapted into p5.js! :) (almost all sketches are animated but obvs not on these images).</p>
 
 <table style="width:100%">
