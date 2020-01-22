@@ -1,7 +1,6 @@
 # sketchbook
 
-<a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a>
-</br>
-<a href="https://venomswitch.github.io/sketchbook/fractalTree/">Fractal tree</a>
-</br>
-<a href="https://venomswitch.github.io/sketchbook/parametricP5/">Parametric equations</a>
+<h3><a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a></h3>
+<h3><a href="https://venomswitch.github.io/sketchbook/fractalTree/">Fractal tree</a></h3>
+<h3><a href="https://venomswitch.github.io/sketchbook/parametricP5/">Parametric equations</a></h3>
+<h3><a href="https://venomswitch.github.io/sketchbook/swirlingRectp5/">Swirling rectangles</a></h3>
