@@ -1,6 +1,6 @@
 # sketchbook
 
-<h2>All of my sketches are written in Processing then <strong>pain</strong>stakingly(2d arrays) adapted into p5.js! :)</h2>
+<h2>All of my sketches are written in Processing then <strong>pain</strong>stakingly(2d arrays) adapted into p5.js! :) (almost all sketches are animated but obvs not on these images).</h2>
 
 <table style="width:100%">
   <tr>
