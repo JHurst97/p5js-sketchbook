@@ -3,7 +3,7 @@
 <table style="width:100%">
   <tr>
     <td><h3><a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a></h3></td>
-    <td>Smith</td>
+    <td><img src="images/angleIMG.png" alt="angle img" width="200"/></td>
     <td>comments</td>
   </tr>
   <tr>
