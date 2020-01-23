@@ -43,13 +43,56 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   
   
 </div>
+
+<style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+</style>
 <!-- second row -->
 <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
     <div class="w3-quarter">
-      <style>img:hover{content: "This is some text"}</style>
-      <style>a:hover{background-color: yellow}</style>
       <img src="images/angleIMG.png" alt="angle" style="width:100%">
+      <div class="middle">
+        <div class="text">John Doe</div>
+      </div>
       <h3><a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a></h3>
       <p>I used to draw these in primary school so thought it would be interesting to recreate it in Processing.</p>
     </div>
