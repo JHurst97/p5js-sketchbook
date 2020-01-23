@@ -48,6 +48,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
     <div class="w3-quarter">
       <style>img:hover{content: "This is some text"}</style>
+      <style>a:hover{background-color: yellow}</style>
       <img src="images/angleIMG.png" alt="angle" style="width:100%">
       <h3><a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a></h3>
       <p>I used to draw these in primary school so thought it would be interesting to recreate it in Processing.</p>
