@@ -90,7 +90,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <div class="container">
       <img src="images/angleIMG.png" alt="angle" class="image" style="width:100%">
       <div class="middle">
-        <div class="text">John Doe</div>
+        <div class="text">John Toe</div>
       </div>
       </div>
       <h3><a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a></h3>
