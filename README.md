@@ -16,6 +16,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <h4> By Joel Hurst.</h4>
 <p>All of my sketches are written in Processing then <strong>pain</strong>stakingly(2d arrays) adapted into p5.js! :) (almost all sketches are animated but obvs not on these images).</p>
 
+<!-- first row -->
 <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
     <div class="w3-quarter">
