@@ -47,14 +47,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <style>
 .container {
   position: relative;
-  width: 50%;
 }
 
 .image {
   opacity: 1;
   display: block;
   width: 100%;
-  height: auto;
   transition: .5s ease;
   backface-visibility: hidden;
 }
