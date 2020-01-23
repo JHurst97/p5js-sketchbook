@@ -2,17 +2,26 @@
   
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+.w3-bar-block .w3-bar-item {padding:20px}
+</style>
   </head>
 
 
 
 <body>
   
-  <div class="w3-top">
+<!-- Top menu -->
+<div class="w3-top">
   <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
-    <div class="w3-center w3-padding-16">Sketchbook</div>
+    <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
+    <div class="w3-right w3-padding-16">p5.js</div>
+    <div class="w3-center w3-padding-16">Portfolio</div>
   </div>
 </div>
+
+<!-- main content -->
 <h4> By Joel Hurst.</h4>
 <p>All of my sketches are written in Processing then <strong>pain</strong>stakingly(2d arrays) adapted into p5.js! :) (almost all sketches are animated but obvs not on these images).</p>
 
