@@ -1,7 +1,22 @@
-# sketchbook
+<head>
+  
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+  </head>
+
+
+
+<body>
+  
+  <div class="w3-top">
+  <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
+    <div class="w3-center w3-padding-16">Sketchbook</div>
+  </div>
+</div>
 <h4> By Joel Hurst.</h4>
 <p>All of my sketches are written in Processing then <strong>pain</strong>stakingly(2d arrays) adapted into p5.js! :) (almost all sketches are animated but obvs not on these images).</p>
 
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
 <table style="width:100%">
   <tr>
     <td><h3><a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a></h3></td>
@@ -24,3 +39,6 @@
     <td>Made by mistake, ended up with this cool pattern.</td>
   </tr>
 </table>
+  
+</div>
+</body>
