@@ -43,5 +43,32 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   
   
 </div>
+<!-- second row -->
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <img src="images/angleIMG.png" alt="angle" style="width:100%">
+      <h3><a href="https://venomswitch.github.io/sketchbook/angleSketch/">Angle</a></h3>
+      <p>I used to draw these in primary school so thought it would be interesting to recreate it in Processing.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="images/fractalTreeIMG.png" alt="fractal tree img" style="width:100%">
+      <h3><a href="https://venomswitch.github.io/sketchbook/fractalTree/">Fractal tree</a></h3>
+      <p>Basic fractal tree with 4 branches at equal angles per iteration.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="images/paraEquaIMG.png" alt="parametric equations img" style="width:100%">
+      <h3><a href="https://venomswitch.github.io/sketchbook/parametricP5/">Parametric equations</a></h3>
+      <p>Parametric equations made basic here for purpose of reliability. Can be a bit mental with random values/colours.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="images/swirlingRectIMG.png" alt="swirling rect img" style="width:100%">
+      <h3><a href="https://venomswitch.github.io/sketchbook/swirlingRectp5">Swirling rectangles</a></h3>
+      <p>Made by mistake, ended up with this cool pattern.</p>
+    </div>
+  </div>
+  
+  
+</div>
 
 </body>
