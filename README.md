@@ -26,7 +26,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <p>I used to draw these in primary school. Density of lines determined by mouseX, infinitely easier than drawing each line with a ruler.</p>
     </div>
     <div class="w3-quarter">
-      <a href="https://venomswitch.github.io/sketchbook/fractalTree/">
+      <a href="https://venomswitch.github.io/sketchbook/fractalTree">
         <img src="images/fractalTreeIMG.PNG" alt="fractal tree img" style="width:100%">
       <h3>Fractal tree</h3></a>
       <p>Basic fractal tree with 4 branches at equal angles per iteration.</p>
