@@ -51,8 +51,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     <div class="w3-quarter">
       <a href="https://venomswitch.github.io/sketchbook/basicLissajous/">
         <img src="images/lissajousIMG.png" alt="angle" style="width:100%">
-      <h3>Angle</h3></a>
-      <p>I used to draw these in primary school so thought it would be interesting to recreate it in Processing.</p>
+      <h3>Lissajous</h3></a>
+      <p>A basic program (with sliders) which allows experimentation with different sine/cosine speeds to produce lissajous patterns.</p>
     </div>
     
   </div>
