@@ -55,6 +55,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <p>(with sliders)Allows experimentation with different sine/cosine speeds to produce lissajous patterns. Stick with whole numbers for best results.</p>
     </div>
     <div class="w3-quarter">
+      <a href="https://venomswitch.github.io/sketchbook/smokeObjectArray/">
+        <img src="images/basicSmoke.PNG" alt="angle" style="width:100%">
+      <h3>Smokey</h3></a>
+      <p>Basic smoke without using perlin noise.</p>
+    </div>
+    <div class="w3-quarter">
       <a href="https://venomswitch.github.io/sketchbook/randomMoonCraters/">
         <img src="images/randomMoonIMG.PNG" alt="angle" style="width:100%">
       <h3>Moon craters</h3></a>
