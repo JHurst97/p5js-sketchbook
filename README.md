@@ -60,8 +60,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     <div class="w3-quarter">
       <a href="https://venomswitch.github.io/sketchbook/randomMoonCraters/">
         <img src="images/randomMoonIMG.PNG" alt="angle" style="width:100%">
-      <h3>Lissajous</h3></a>
-      <p>A basic program (with sliders) which allows experimentation with different sine/cosine speeds to produce lissajous patterns.</p>
+      <h3>Moon craters</h3></a>
+      <p>generate a circle filled with lines conforming to a random start and end along the circumference of the cirlce</p>
     </div>
     
   </div>
