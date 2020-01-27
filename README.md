@@ -64,7 +64,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <p>generate a circle filled with lines conforming to a random start and end along the circumference of the cirlce</p>
     </div>
     
-  </div>
 </div>
 
 </body>
