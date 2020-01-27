@@ -44,8 +44,18 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <p>Made by mistake, ended up with this cool pattern.</p>
     </div>
   </div>
-  
-  
+</div>
+<!-- second row -->
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <a href="https://venomswitch.github.io/sketchbook/basicLissajous/">
+        <img src="images/lissajousIMG.png" alt="angle" style="width:100%">
+      <h3>Angle</h3></a>
+      <p>I used to draw these in primary school so thought it would be interesting to recreate it in Processing.</p>
+    </div>
+    
+  </div>
 </div>
 
 </body>
