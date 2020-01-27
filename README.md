@@ -23,7 +23,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <a href="https://venomswitch.github.io/sketchbook/pointsArc">
         <img src="images/pointsArcIMG.PNG" alt="angle" style="width:100%">
       <h3>Angle</h3></a>
-      <p>I used to draw these in primary school so thought it would be interesting to recreate it in Processing.</p>
+      <p>I used to draw these in primary school so thought it would be interesting to recreate it in Processing. Density of lines determined by mouseX, infinitely easier than drawing each line with a ruler...</p>
     </div>
     <div class="w3-quarter">
       <a href="https://venomswitch.github.io/sketchbook/fractalTree/">
