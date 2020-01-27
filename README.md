@@ -16,6 +16,30 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <h4> By Joel Hurst.</h4>
 <p>All of my sketches are written in Processing then <strong>pain</strong>stakingly(2d arrays) adapted into p5.js! :) (almost all sketches are animated but obvs not on these images).</p>
 
+<!-- second row -->
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <a href="https://venomswitch.github.io/sketchbook/basicLissajous/">
+        <img src="images/lissajousIMG.PNG" alt="angle" style="width:100%">
+      <h3>Lissajous</h3></a>
+      <p>(with sliders)Allows experimentation with different sine/cosine speeds to produce lissajous patterns. Stick with whole numbers for best results.</p>
+    </div>
+    <div class="w3-quarter">
+      <a href="https://venomswitch.github.io/sketchbook/smokeObjectsArray/">
+        <img src="images/basicSmoke.PNG" alt="angle" style="width:100%">
+      <h3>Smokey</h3></a>
+      <p>Basic smoke without using perlin noise.</p>
+    </div>
+    <div class="w3-quarter">
+      <a href="https://venomswitch.github.io/sketchbook/randomMoonCraters/">
+        <img src="images/randomMoonIMG.PNG" alt="angle" style="width:100%">
+      <h3>Moon craters</h3></a>
+      <p>Lines conforming to a random start and end around the circumference of a cirlce</p>
+    </div>
+</div>
+</div>
+
 <!-- first row -->
 <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
@@ -45,28 +69,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
     </div>
   </div>
 </div>
-<!-- second row -->
-<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
-  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
-    <div class="w3-quarter">
-      <a href="https://venomswitch.github.io/sketchbook/basicLissajous/">
-        <img src="images/lissajousIMG.PNG" alt="angle" style="width:100%">
-      <h3>Lissajous</h3></a>
-      <p>(with sliders)Allows experimentation with different sine/cosine speeds to produce lissajous patterns. Stick with whole numbers for best results.</p>
-    </div>
-    <div class="w3-quarter">
-      <a href="https://venomswitch.github.io/sketchbook/smokeObjectsArray/">
-        <img src="images/basicSmoke.PNG" alt="angle" style="width:100%">
-      <h3>Smokey</h3></a>
-      <p>Basic smoke without using perlin noise.</p>
-    </div>
-    <div class="w3-quarter">
-      <a href="https://venomswitch.github.io/sketchbook/randomMoonCraters/">
-        <img src="images/randomMoonIMG.PNG" alt="angle" style="width:100%">
-      <h3>Moon craters</h3></a>
-      <p>Lines conforming to a random start and end around the circumference of a cirlce</p>
-    </div>
-</div>
-</div>
+
 
 </body>
